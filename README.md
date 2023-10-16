@@ -5,7 +5,12 @@ The essence of this project is to automate the process of obfuscation on post-ex
 ### Usage :
 ![CipherKey](https://gcdnb.pbrd.co/images/N90I0ayPDZzj.png?o=1)
 
-Proof-of-concept obfuscation toolkit for C# post-exploitation tools. This will perform the below actions for a C# visual studio project.
+
+---
+
+What is InvisibilityCloak?
+
+A Proof-of-concept obfuscation toolkit for C# post-exploitation tools. This will perform the below actions for a C# visual studio project.
 
 * Change the tool name
 * Change the project GUID
